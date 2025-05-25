@@ -30,7 +30,7 @@ Work experience
 Skills
 ======
 * Pytorch and python
-* Robotic AI
+* Embodied AI
   * Reinforcement learning
   * Imitation Learning
   * Humanoid Robots
