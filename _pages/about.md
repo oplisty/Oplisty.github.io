@@ -10,7 +10,8 @@ redirect_from:
 
 Biography
 ======
-Hi! I am Lin Zepeng (Chinese name: 林泽鹏), currently a first year undergraduate student majoring in Artificial Intelligence at South Chine University of Technology and doing research at **@SYSU**, supervised by Prof.Wei-Shi (Jason) Zheng. I am closely working with Wei-Shi (Jason) Zheng.
+Hi! I am **Lin Zepeng** (Chinese name: **林泽鹏**), currently a first year undergraduate student majoring in Artificial Intelligence at South Chine University of Technology and doing research at **@SYSU**, supervised by Prof.Wei-Shi (Jason) Zheng. I am closely working with Wei-Shi (Jason) Zheng.
+
 I have won a Meritorious Winner Prize in Mathematical Contest in Modeling. My research interests mainly focus on Embodied AI, especially on Reinforcement learning,Imitation Learning and Humanoid Robots(VLA, Diffusion Policy and Robot Data Synthesizer.)
 
 <!-- I am also a blogger and vlogger with over 10k followers at Rednote -->
