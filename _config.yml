@@ -22,7 +22,7 @@ repository               : "oplisty/Oplisty.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zepeng.png"
   name             : "ZePeng Lin"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate student majoring in AI"
@@ -46,7 +46,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
+  kaggle           : "Oplisty" # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
