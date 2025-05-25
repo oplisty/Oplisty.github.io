@@ -19,7 +19,7 @@ Competiton
 =====
 * **China Undergraduate Mathematical Contest**:**First Prize**
 * **Mathematical Contest in Modeling**:**Meritorious Winner(First Prize)**
-  * only person in
+  
 Work experience
 ======
 * Fall 2025: Visiting Scholar
